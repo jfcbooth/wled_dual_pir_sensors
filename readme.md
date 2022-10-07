@@ -1,3 +1,5 @@
+Included in this repo is a modified version of the WLED code below. The only difference is a usermod for the PIR sensor now supports input from 2 sensors.
+
 <p align="center">
   <img src="/images/wled_logo_akemi.png">
   <a href="https://github.com/Aircoookie/WLED/releases"><img src="https://img.shields.io/github/release/Aircoookie/WLED.svg?style=flat-square"></a>
